@@ -5,9 +5,9 @@ export default function Hero() {
     const heroImage = '/hero-img.png';
 
     return(
-        <div className="mx-auto max-w-6xl">
-            <div className="flex md:flex-row flex-col-reverse gap-8">
-                <div className="md:w-1/2 w-full md:mt-24 pb-8 ml-6">
+        <div className="mx-auto max-w-6xl ">
+            <div className="flex md:flex-row flex-col-reverse gap-8 border">
+                <div className="md:w-1/2 w-full md:mt-24 pb-8 border">
                     <h1 className="text-5xl font-bold md:w-96 md:text-left text-center">Build strong digital presence!</h1>
                     <h2 className="text-4xl italic font-light pt-2 md:w-72 md:text-left text-center">Get <span className="font-bold animate-blink">20%</span> off the first 3 months</h2>
                     <div className="pt-8 md:w-96">
