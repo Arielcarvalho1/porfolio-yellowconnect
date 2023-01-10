@@ -4,7 +4,7 @@ export default function Lead() {
     return(
         <section id='sectionInfo' className="mt-40 mx-auto md:w-2/4 px-5">
             <h3 className="text-3xl mb-12 font-bold text-center">
-                No need to fill in the form. It does not work.
+                Fill in the fields below to obtain a special offer of 30% OFF
             </h3>
             {/*<div className="flex flex-col justify-center items-center gap-4 mt-8">
                 <div>
