@@ -1,4 +1,5 @@
 import Head from 'next/head'
+import Footer from '../components/Footer'
 import Header from '../components/Header'
 import Hero from '../components/Hero'
 import Lead from '../components/Lead'
@@ -23,6 +24,7 @@ export default function Home() {
         <Lead />
         <Testimonials />
       </main>
+      <Footer />
 
     </div>
   )
