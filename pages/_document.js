@@ -20,7 +20,6 @@ export default function Document() {
           id="element"
         >
         
-          {function ml_webform_success_5786909(){var r=ml_jQuery||jQuery;r(".ml-subscribe-form-5786909 .row-success").show(),r(".ml-subscribe-form-5786909 .row-form").hide()}}
         </Script>
       </body>
     </Html>
